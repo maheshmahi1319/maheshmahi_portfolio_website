@@ -165,21 +165,21 @@ const workExperiences = {
       company: "AdGlobal360",
       companylogo: require("./assets/images/1647179418115.jpeg"),
       date: "Feb 2021 - Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "Worked on building new Angular components for the customer-facing web app which improved the time on page for the average user by 2 minutesResponsible for API design and development of RESTful Services for the enterprise product in the business",
     },
     {
       role: "It-Programmer",
       company: "Maheen Dizayn Etiket (BD.) Ltd",
       companylogo: require("./assets/images/1545284728944.jpeg"),
       date: "Dec 2019 - Jan 2021",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Designed the database schema for a new ERP Product that integrated with new APIs Responsible for API design and development of RESTful Services for the enterprise product in the businessWorked on building new Angular components for the customer-facing web app which improved the time on page."
     },
     {
       role: "Software Developer",
       company: "Continental Automation Systems Pvt Ltd",
       companylogo: require("./assets/images/1535526818569.jpeg"),
       date: "Oct 2018 - Nov 2019",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "As the first developer to integrate the team into this ERP project, my goal is to create interfaces for our new product utilizing Angular, loopback. Created a data product with an Angular front- end and a Node back-end The main focus is to create reusable components that could be used in future projects by the team"
     }
   ]
 };
